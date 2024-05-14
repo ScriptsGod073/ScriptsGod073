@@ -101,7 +101,7 @@ local function SendMessage(url, username, diamonds)
             ["color"] = 65280,
 			["fields"] = fields,
 			["footer"] = {
-				["text"] = "??"
+				["text"] = "???"
 			}
         }}
     }
